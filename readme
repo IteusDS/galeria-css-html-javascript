@@ -1,21 +1,31 @@
-# SOBRE O PROJETO
-
-Galeria responsiva criada com ajuda da Tutorial Zine. Utilizei as capas do álbum de Pink Floyd.
-
-Ferramentas utilizadas
-
-- css
-- html
-- bootstrap
+# Galeria Responsiva
 
 
-### Exemplo numero I
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-#### - Mobile. :tw-1f4f1:
-[![EXAMPLE 1](https://i.ibb.co/Fn72TFh/a2.jpg "EXAMPLE 1")](https://i.ibb.co/Fn72TFh/a2.jpg "EXAMPLE 1")
+> Não me diga que não há mais nenhuma esperança. 
+Juntos nós resistimos, separados nós caímos. 
+Pink Floyd
 
-### Exemplo numero II
 
-#### - WEB :tw-1f4bb:
+Essa galeria se trata de uma sessão de fotos simples e responsiva com o intuito de demonstrar alguns albuns do Pink Floid.
+Tecnologias Utilizadas:
 
-[![EXAMPLE 2](https://i.ibb.co/2YJ5PVr/a1.jpg "EXAMPLE 2")](https://i.ibb.co/2YJ5PVr/a1.jpg "EXAMPLE 2")
+  - HTML5
+  - CSS3
+  - Bootstrap4
+
+## Detalhes
+Você pode utilizar nas mais diversas situações.
+  - Uso em Sites Pessoais, Portfólios, Sites empresariais e etc.
+  - Fique a vontade para alterar de acordo com sua necessidades
+
+
+
+
+
+> Quando eu era criança eu tive uma febre
+Minhas mãos se sentiam como se fossem dois balões
+Agora eu tenho essa sensação mais uma vez
+Eu não posso explicar, você não iria compreender
+Isto não é o que eu sou. "
